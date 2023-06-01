@@ -4,7 +4,7 @@ Data and code for chronological model of the Neolithic LBK in Polish foothils Ar
 files:  
 -- LBK_fthlls.csv  
 -- LBK_fthlls_ref.txt  
------ radiocarbon data and sources for LBK sites in foothills area in SE Poland used in model (as published in Oberc et al. 2022, Tab 1).
+----- radiocarbon data and sources for LBK sites in foothills area in SE Poland used in model (a subset of data aggregated in Oberc et al. 2022, Tab 1).
   
 -- dens_LBKfoothlsPL.R  
 ----- R script for binned probability distribution out of Gaussian Mixture density estimation ('BchronDensity' function).
