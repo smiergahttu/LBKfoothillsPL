@@ -1,13 +1,15 @@
 LBKfoothillsPL  
 Data and code for chronological model of the Neolithic LBK in Polish foothils Area.  
-LBK_fthlls.csv  
-LBK_fthlls_ref.txt  
--- radiocarbon data and sources for LBK sites in foothills area in SE Poland used in model (as published in Oberc et al. 2022, Tab 1).
   
-dens_LBKfoothlsPL.R  
--- R script for binned probability distribution derived by Gaussian Mixture density estimation ('BchronDensity' function).
+files:  
+-- LBK_fthlls.csv  
+-- LBK_fthlls_ref.txt  
+----- radiocarbon data and sources for LBK sites in foothills area in SE Poland used in model (as published in Oberc et al. 2022, Tab 1).
+  
+-- dens_LBKfoothlsPL.R  
+----- R script for binned probability distribution out of Gaussian Mixture density estimation ('BchronDensity' function).
 
-used versions:  
+versions:  
 -- R version 4.2.1 (2022-06-23 ucrt) -- "Funny-Looking Kid"  
 -- Bchron version 4.7.6  
 -- RStudio 2023.03.0 Build 386
