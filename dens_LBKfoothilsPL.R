@@ -26,6 +26,6 @@ Ndens_LBK <- cdens_LBK/sum(cdens_LBK)
 plot(Ndens_LBK, type="l", col="red")
 lines(cdens_LBK, col="blue")
 
-#formulate dataframe (outpot rounded to 2 decimal places) and write as csv.
+#formulate data frame (output rounded to 2 decimal places) and write as csv.
 df_Ndens_LBK <- data.frame("Year"=centuries, "dens"=round(Ndens_LBK, 2))
 write.csv(df_Ndens_LBK, "LBKfoothils_Ndens_LBK.csv")
