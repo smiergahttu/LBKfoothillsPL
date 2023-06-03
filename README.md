@@ -1,7 +1,7 @@
 LBKfoothillsPL  
 Data and code for chronological model of the Neolithic LBK in Polish foothils Area.  
   
-(preview html verion of the poster: https://htmlpreview.github.io/?https://github.com/smiergahttu/LBKfoothillsPL/blob/main/lbk_netfthlls.html#ref-obercRadiocarbonDatingLinear2022)
+(preview html verion of the poster: https://htmlpreview.github.io/?https://github.com/smiergahttu/LBKfoothillsPL/blob/main/lbk_netfthlls.html)
   
 files:  
 -- LBK_fthlls.csv  
