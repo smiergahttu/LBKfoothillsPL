@@ -1,16 +1,18 @@
 #Preparation
-
 install.packages("Bchron")
 library(Bchron)
+
 #LBK_Fthlls is the list of radiocarbon determination. It needs columns named "BP" - radiocarbon years, and "Std" - standart deviation (radiocarbon years). Calibration use Intacl2 calibration curve. See LBK_Fthlls.csv and LBK_Fthlls_ref.txt in this repo.
 data <- read.csv("LBK_fthlls.csv")
 
 #calculate and format data frame (for plots etc.).
 dens <- BchronDensity(data$BP, data$Std, rep("intcal20", length(data$BP)))
-year_den <- data.frame("year"=1950-dens$ageGrid, "dens"=dens$densities)
+#WARNING! BchronDensity output is BP, not B2K. thus it should be recalculated from 1950, not 2000.
+#year_den <- data.frame("year"=1950-dens$ageGrid, "dens"=dens$densities)
+year_den <- data.frame("year"=2000-dens$ageGrid, "dens"=dens$densities)
 plot(year_den, type="l")
 
-#Define time span of analysis (5400-4800 BC, by 100 years).
+#Define time span of analysis (5400-4800 BC, by 100 years). Note that -5400 represents a beggining of the century (full years 5400-5301 BC).
 centuries <- seq(-5400,-4900, 100)
 
 #bin probability distribution into grid.
