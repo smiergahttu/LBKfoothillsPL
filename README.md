@@ -23,7 +23,7 @@ versions:
 -- R version 4.2.1 (2022-06-23 ucrt) -- "Funny-Looking Kid"  
 -- Bchron version 4.7.6  
 -- RStudio 2023.03.0 Build 386  
--- Quarto 1.1.251
+-- Quarto 1.1.251  
 -- QGIS 2.22/2.28 (with Saga GIS and GRASS 7 modules)
 
 -- R Core Team (2022). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.  
