@@ -13,7 +13,8 @@ files:
   
   
 -- lbk_netfthlls.html  
------ html verison of the poster (Quarto/RStudio)  
+-- lbk_netfthlls_files  
+----- html verison of the poster and Quarto files (Quarto/RStudio)  
 
 -- fig*.jpg/gif   
 ----- set light-weight figures for poster (QGIS)
