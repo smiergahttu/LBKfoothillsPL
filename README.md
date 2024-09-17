@@ -32,4 +32,4 @@ versions:
 -- Oberc T., Czekaj-Zastawny A., Rauba-Bukowska A. (2022) Radiocarbon Dating For The Linear Pottery Culture From The Territory Of Poland - Research Problems. In: M. Grygiel, P. J. Obst (Eds.), Walking Among Ancient Trees. Studies in honour of Ryszard Grygiel and Peter Bogucki on the 45th anniversary of their research collaboration. Konrad Jażdżewski Foundation for Archaeological Research, Museum of Archeology and Ethnography in Łódź, 183-212. https://www.researchgate.net/publication/367167565_Radiocarbon_dating_for_the_Linear_Pottery_Culture_from_the_territory_of_Poland_-_research_problems  
   
 Published version (after reviews and changes):  
--- Oberc. T (2023) LBK settlement network in the eastern part of the Wiśnicz Foothills, Acta Archaeologica Carpathica, 2023, Vol. LVIII, pp. 39-60. https://doi.org/10.4467/00015229AAC.23.003.19099  
+-- Oberc. T. (2023) LBK settlement network in the eastern part of the Wiśnicz Foothills, Acta Archaeologica Carpathica, 2023, Vol. LVIII, pp. 39-60. https://doi.org/10.4467/00015229AAC.23.003.19099  
